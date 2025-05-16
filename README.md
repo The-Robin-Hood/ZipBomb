@@ -2,7 +2,7 @@
 
 This project demonstrates a way to defend against malicious bots and crawlers by serving a compressed file (zip bomb) that decompresses into a massive payload, overwhelming memory-limited or poorly coded bots.
 
-Read this [blog post](https://example.com) for more details.
+Read this [blog post](https://ansari.wtf/blog/zip-bomb-trap) for more details.
 
 ---
 
