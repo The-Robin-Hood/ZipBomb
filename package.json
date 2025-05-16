@@ -1,0 +1,22 @@
+{
+  "name": "zipbomb",
+  "module": "server.ts",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A simple zip bomb server and client for testing purposes.",
+  "scripts": {
+    "server": "bun run server.ts",
+    "bot": "bun run bot.ts",
+  },
+
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/express": "^5.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
